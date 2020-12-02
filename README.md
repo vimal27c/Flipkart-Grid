@@ -12,7 +12,7 @@
 3. Drive link for Object Recognition video
 -> https://drive.google.com/file/d/11Ib3Yb5RoFCpj0rxp0O_OQts7TEK8zBd/view
 
-4. Drive link for 3D file (Gripper) 
+4. Drive link for 3D file (Gripper)
 -> https://drive.google.com/file/d/1DC3MfUVnu2Fm370iGdKt6as4AthnwfYI/view
 
 5. Drive link for working Soft Grippers (Video Clip) 
