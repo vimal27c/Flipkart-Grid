@@ -1,5 +1,5 @@
 # Flipkart-Grid-2.0
-# TEAM_XYZ
+# participated as TEAM_XYZ
 # PROTOTYPE DIMENSIONS
 ![](fgridprototype.PNG)
 
@@ -19,6 +19,10 @@
 -> https://drive.google.com/file/d/1AHO5AwZlEe_oicbnOhwM0GI5V0sIrBpW/view
 
 Software used for protype designing and animation - Blender
+Programming language - Python
+Libraries used - Opencv , pybullet
+IDE - Jupyter notebook
+Trained our image processing model through google colab
 
 # OUR APPROACH
 • Our object detection model will detect the position of object from the feed taken by the camera and then the
